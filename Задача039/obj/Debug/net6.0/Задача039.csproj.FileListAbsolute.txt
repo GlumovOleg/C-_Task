@@ -1,0 +1,15 @@
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача039\bin\Debug\net6.0\Задача039.exe
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача039\bin\Debug\net6.0\Задача039.deps.json
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача039\bin\Debug\net6.0\Задача039.runtimeconfig.json
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача039\bin\Debug\net6.0\Задача039.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача039\bin\Debug\net6.0\ref\Задача039.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача039\bin\Debug\net6.0\Задача039.pdb
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача039\obj\Debug\net6.0\Задача039.csproj.AssemblyReference.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача039\obj\Debug\net6.0\Задача039.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача039\obj\Debug\net6.0\Задача039.AssemblyInfoInputs.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача039\obj\Debug\net6.0\Задача039.AssemblyInfo.cs
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача039\obj\Debug\net6.0\Задача039.csproj.CoreCompileInputs.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача039\obj\Debug\net6.0\Задача039.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача039\obj\Debug\net6.0\ref\Задача039.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача039\obj\Debug\net6.0\Задача039.pdb
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача039\obj\Debug\net6.0\Задача039.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача044\obj\Debug\net6.0\Задача044.csproj.AssemblyReference.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача044\obj\Debug\net6.0\Задача044.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача044\obj\Debug\net6.0\Задача044.AssemblyInfoInputs.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача044\obj\Debug\net6.0\Задача044.AssemblyInfo.cs
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача044\obj\Debug\net6.0\Задача044.csproj.CoreCompileInputs.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача044\bin\Debug\net6.0\Задача044.exe
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача044\bin\Debug\net6.0\Задача044.deps.json
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача044\bin\Debug\net6.0\Задача044.runtimeconfig.json
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача044\bin\Debug\net6.0\Задача044.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача044\bin\Debug\net6.0\ref\Задача044.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача044\bin\Debug\net6.0\Задача044.pdb
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача044\obj\Debug\net6.0\Задача044.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача044\obj\Debug\net6.0\ref\Задача044.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача044\obj\Debug\net6.0\Задача044.pdb
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача044\obj\Debug\net6.0\Задача044.genruntimeconfig.cache

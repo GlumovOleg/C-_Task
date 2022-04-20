@@ -1,0 +1,5 @@
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача047\obj\Debug\net6.0\Задача047.csproj.AssemblyReference.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача047\obj\Debug\net6.0\Задача047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача047\obj\Debug\net6.0\Задача047.AssemblyInfoInputs.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача047\obj\Debug\net6.0\Задача047.AssemblyInfo.cs
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача047\obj\Debug\net6.0\Задача047.csproj.CoreCompileInputs.cache

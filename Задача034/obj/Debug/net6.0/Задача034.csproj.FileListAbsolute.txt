@@ -1,0 +1,15 @@
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача034\obj\Debug\net6.0\Задача034.csproj.AssemblyReference.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача034\obj\Debug\net6.0\Задача034.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача034\obj\Debug\net6.0\Задача034.AssemblyInfoInputs.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача034\obj\Debug\net6.0\Задача034.AssemblyInfo.cs
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача034\obj\Debug\net6.0\Задача034.csproj.CoreCompileInputs.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача034\bin\Debug\net6.0\Задача034.exe
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача034\bin\Debug\net6.0\Задача034.deps.json
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача034\bin\Debug\net6.0\Задача034.runtimeconfig.json
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача034\bin\Debug\net6.0\Задача034.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача034\bin\Debug\net6.0\ref\Задача034.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача034\bin\Debug\net6.0\Задача034.pdb
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача034\obj\Debug\net6.0\Задача034.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача034\obj\Debug\net6.0\ref\Задача034.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача034\obj\Debug\net6.0\Задача034.pdb
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Задача034\obj\Debug\net6.0\Задача034.genruntimeconfig.cache

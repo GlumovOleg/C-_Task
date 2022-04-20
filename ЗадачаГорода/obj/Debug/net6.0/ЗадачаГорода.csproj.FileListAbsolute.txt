@@ -1,0 +1,15 @@
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\ЗадачаГорода\obj\Debug\net6.0\ЗадачаГорода.csproj.AssemblyReference.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\ЗадачаГорода\obj\Debug\net6.0\ЗадачаГорода.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\ЗадачаГорода\obj\Debug\net6.0\ЗадачаГорода.AssemblyInfoInputs.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\ЗадачаГорода\obj\Debug\net6.0\ЗадачаГорода.AssemblyInfo.cs
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\ЗадачаГорода\obj\Debug\net6.0\ЗадачаГорода.csproj.CoreCompileInputs.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\ЗадачаГорода\bin\Debug\net6.0\ЗадачаГорода.exe
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\ЗадачаГорода\bin\Debug\net6.0\ЗадачаГорода.deps.json
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\ЗадачаГорода\bin\Debug\net6.0\ЗадачаГорода.runtimeconfig.json
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\ЗадачаГорода\bin\Debug\net6.0\ЗадачаГорода.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\ЗадачаГорода\bin\Debug\net6.0\ref\ЗадачаГорода.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\ЗадачаГорода\bin\Debug\net6.0\ЗадачаГорода.pdb
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\ЗадачаГорода\obj\Debug\net6.0\ЗадачаГорода.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\ЗадачаГорода\obj\Debug\net6.0\ref\ЗадачаГорода.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\ЗадачаГорода\obj\Debug\net6.0\ЗадачаГорода.pdb
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\ЗадачаГорода\obj\Debug\net6.0\ЗадачаГорода.genruntimeconfig.cache

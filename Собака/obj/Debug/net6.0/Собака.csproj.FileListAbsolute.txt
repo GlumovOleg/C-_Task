@@ -1,0 +1,15 @@
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Собака\bin\Debug\net6.0\Собака.exe
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Собака\bin\Debug\net6.0\Собака.deps.json
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Собака\bin\Debug\net6.0\Собака.runtimeconfig.json
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Собака\bin\Debug\net6.0\Собака.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Собака\bin\Debug\net6.0\ref\Собака.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Собака\bin\Debug\net6.0\Собака.pdb
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Собака\obj\Debug\net6.0\Собака.csproj.AssemblyReference.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Собака\obj\Debug\net6.0\Собака.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Собака\obj\Debug\net6.0\Собака.AssemblyInfoInputs.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Собака\obj\Debug\net6.0\Собака.AssemblyInfo.cs
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Собака\obj\Debug\net6.0\Собака.csproj.CoreCompileInputs.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Собака\obj\Debug\net6.0\Собака.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Собака\obj\Debug\net6.0\ref\Собака.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Собака\obj\Debug\net6.0\Собака.pdb
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\Собака\obj\Debug\net6.0\Собака.genruntimeconfig.cache

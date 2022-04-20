@@ -1,0 +1,15 @@
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\235\obj\Debug\net6.0\235.csproj.AssemblyReference.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\235\obj\Debug\net6.0\235.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\235\obj\Debug\net6.0\235.AssemblyInfoInputs.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\235\obj\Debug\net6.0\235.AssemblyInfo.cs
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\235\obj\Debug\net6.0\235.csproj.CoreCompileInputs.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\235\bin\Debug\net6.0\235.exe
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\235\bin\Debug\net6.0\235.deps.json
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\235\bin\Debug\net6.0\235.runtimeconfig.json
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\235\bin\Debug\net6.0\235.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\235\bin\Debug\net6.0\ref\235.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\235\bin\Debug\net6.0\235.pdb
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\235\obj\Debug\net6.0\235.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\235\obj\Debug\net6.0\ref\235.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\235\obj\Debug\net6.0\235.pdb
+C:\Users\Darek\OneDrive\Документы\ГБ\Языки программирования\Семинары\235\obj\Debug\net6.0\235.genruntimeconfig.cache
